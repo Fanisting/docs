@@ -5,6 +5,7 @@ sitemap: false
 nav: firecracker
 ---
 
+
 <figure>
   <img src="/static/images/docs-intro.jpg" srcset="/static/images/docs-intro@2x.jpg 2x" alt="">
 </figure>
